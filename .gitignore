@@ -1,0 +1,7 @@
+# local agent state
+*.db
+*.db-shm
+*.db-wal
+mcp-auth.json
+auth.json
+*.log
