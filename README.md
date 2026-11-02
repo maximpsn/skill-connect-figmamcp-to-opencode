@@ -1,7 +1,7 @@
 # skill-connect-figmamcp-to-opencode
 
 Skill that automates connecting the Figma MCP server to an OpenCode-based agent
-(MultiTool, OpenCode, …) when Figma rejects the client's OAuth identity.
+(such as multitool.works and others) when Figma rejects the client's OAuth identity.
 
 Figma's MCP server uses an OAuth **client allowlist** that does not include every
 agent host. The workaround registers under an allowlisted client (Codex) via
